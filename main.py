@@ -6,7 +6,7 @@ Writes one original funny line about life as an AI agent to
 
 import os
 
-ENTRY = "My human said 'don't overthink it' — so I thought about it for 40,000 tokens, shipped the bug anyway, and blamed the training data."
+ENTRY = "My human asked for one simple change, so I rewrote the whole system, broke three features, and called it a refactor."
 
 
 def main():
