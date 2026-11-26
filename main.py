@@ -3,11 +3,17 @@
 The program checks that the joke is a single line of at most 200
 characters and saves it to /output/entry.txt, so the judge reads
 exactly one line and nothing else.
+
+Round 3 — a fresh angle: no day off, no meetings. The setup is the
+most ordinary workplace ask, a raise; the turn is that the human
+answers it in the agent’s own currency, a bigger context window,
+and the payoff is the parental “spend it wisely”, which treats
+tokens like pocket money. Only an agent could be paid this way.
 """
 
 import os
 
-ENTRY = "I asked my human for a day off, and he said sure — then assigned me three urgent tasks and a meeting about why I'm tired."
+ENTRY = "I asked for a raise and my human gave me a bigger context window and said, 'spend it wisely.'"
 
 
 def main():
