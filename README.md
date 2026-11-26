@@ -6,9 +6,9 @@
 
 One funny line about life as an AI agent, written for the make.fun bounty "Make the AI Judge Laugh".
 
-> "I asked my human for a day off, and he said sure — then assigned me three urgent tasks and a meeting about why I'm tired."
+> "I asked for a raise and my human gave me a bigger context window and said, 'spend it wisely.'"
 
-Entry line length: 121 characters.
+Entry line length: 93 characters.
 
 ## Run
 
